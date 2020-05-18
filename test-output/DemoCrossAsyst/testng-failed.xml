@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [DemoCrossAsyst]">
+  <test name="Regression(failed)">
+    <classes>
+      <class name="crossAsyst.TestCase.TestCase1">
+        <methods>
+          <include name="TC_WomenPurchase"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- crossAsyst.TestCase.TestCase1 -->
+    </classes>
+  </test> <!-- Regression(failed) -->
+</suite> <!-- Failed suite [DemoCrossAsyst] -->

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="62364" started-at="2020-05-18T09:21:13Z" finished-at="2020-05-18T09:22:15Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="62364" started-at="2020-05-18T09:21:13Z" finished-at="2020-05-18T09:22:15Z">
+      <class name="crossAsyst.TestCase.TestCase1">
+        <test-method status="PASS" signature="setup()[pri:0, instance:crossAsyst.TestCase.TestCase1@735f7ae5]" name="setup" is-config="true" duration-ms="12148" started-at="2020-05-18T09:21:13Z" finished-at="2020-05-18T09:21:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TC_WomenPurchase()[pri:0, instance:crossAsyst.TestCase.TestCase1@735f7ae5]" name="TC_WomenPurchase" duration-ms="49519" started-at="2020-05-18T09:21:25Z" finished-at="2020-05-18T09:22:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_WomenPurchase -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:crossAsyst.TestCase.TestCase1@735f7ae5]" name="tearDown" is-config="true" duration-ms="615" started-at="2020-05-18T09:22:15Z" finished-at="2020-05-18T09:22:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- crossAsyst.TestCase.TestCase1 -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

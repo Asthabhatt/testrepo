@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: crossAsyst.TestCase.TestCase1
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 63.164 s - in crossAsyst.TestCase.TestCase1
